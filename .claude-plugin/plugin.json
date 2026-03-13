@@ -1,0 +1,12 @@
+{
+    "name": "gia-eu-ai-act",
+    "description": "EU AI Act compliance assessment — classify AI systems, screen prohibited practices, and calculate penalty exposure. Powered by GIA governance.",
+    "version": "1.0.0",
+    "author": {
+          "name": "Advanced Consulting Experts, LLC",
+          "url": "https://aceexperts.org"
+    },
+    "homepage": "https://aceexperts.org/gia",
+    "repository": "https://github.com/knowledgepa3/gia-eu-ai-act",
+    "license": "MIT"
+}
